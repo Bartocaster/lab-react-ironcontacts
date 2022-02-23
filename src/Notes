@@ -1,0 +1,10 @@
+SetContacts ([randomContacts, ])
+
+
+<button onClick= { sortByPopularity}>Sort by popularity</button>
+
+
+<button onClick={() => removeContact (contact.ID)}>
+
+   let fiveContact = contact.contactArr
+  const [contact, setContacts ] = useState(fiveContact)
