@@ -51,7 +51,8 @@ const SortByName = () => {
 
   })
 })
-}
+};
+// ran out of time
     
   return (
     <div className="App"> 
